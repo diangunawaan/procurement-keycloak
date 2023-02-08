@@ -1,0 +1,2 @@
+2021-05-26 22:58:07,304 WARN  [org.keycloak.events] (default task-550) type=REFRESH_TOKEN_ERROR, realmId=master, clientId=security-admin-console, userId=null, ipAddress=10.10.10.1, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret
+2021-05-26 23:54:40,702 WARN  [org.keycloak.events] (default task-550) type=REFRESH_TOKEN_ERROR, realmId=master, clientId=security-admin-console, userId=null, ipAddress=10.10.10.1, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret

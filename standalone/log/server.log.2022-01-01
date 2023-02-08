@@ -1,0 +1,4 @@
+2022-01-01 20:26:56,054 WARN  [org.keycloak.events] (default task-330) type=INTROSPECT_TOKEN_ERROR, realmId=Procurite, clientId=procurite-backend, userId=null, ipAddress=127.0.0.1, error=invalid_request, detail='Authentication failed.'
+2022-01-01 20:26:56,058 WARN  [org.keycloak.events] (default task-330) type=INTROSPECT_TOKEN_ERROR, realmId=Procurite, clientId=procurite-backend, userId=null, ipAddress=127.0.0.1, error=invalid_request, detail='Authentication failed.'
+2022-01-01 20:26:56,715 WARN  [org.keycloak.events] (default task-330) type=INTROSPECT_TOKEN_ERROR, realmId=Procurite, clientId=procurite-backend, userId=null, ipAddress=127.0.0.1, error=invalid_request, detail='Authentication failed.'
+2022-01-01 20:26:56,715 WARN  [org.keycloak.events] (default task-330) type=INTROSPECT_TOKEN_ERROR, realmId=Procurite, clientId=procurite-backend, userId=null, ipAddress=127.0.0.1, error=invalid_request, detail='Authentication failed.'

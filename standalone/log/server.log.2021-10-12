@@ -1,0 +1,1 @@
+2021-10-12 23:26:10,598 WARN  [org.keycloak.events] (default task-1172) type=REGISTER_ERROR, realmId=Procurite, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true, authSessionParentId=bf9ea4a9-053b-432e-8f3d-27cb66963f20, authSessionTabId=NqmEQj7QC94

@@ -1,0 +1,2 @@
+2021-07-10 09:22:23,249 WARN  [org.keycloak.events] (default task-362) type=CUSTOM_REQUIRED_ACTION_ERROR, realmId=Procurite, clientId=null, userId=null, ipAddress=127.0.0.1, error=invalid_code
+2021-07-10 13:28:03,973 WARN  [org.keycloak.events] (default task-362) type=EXECUTE_ACTION_TOKEN_ERROR, realmId=Procurite, clientId=null, userId=e0a2f57a-7795-47d1-b3b9-8219b591efe6, ipAddress=127.0.0.1, error=expired_code, reason='Token is not active', token_id=4897298c-e1aa-4514-84ae-63b45ebd4e1d, action=verify-email

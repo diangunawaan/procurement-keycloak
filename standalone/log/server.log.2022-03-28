@@ -1,0 +1,1 @@
+2022-03-28 08:53:54,175 WARN  [org.keycloak.events] (default task-2016) type=LOGIN_ERROR, realmId=Procurite, clientId=procurite-backend, userId=null, ipAddress=127.0.0.1, error=invalid_redirect_uri, redirect_uri=http://realtime.dev.procurite.id/notification/count-unread-notifications?&auth_callback=1

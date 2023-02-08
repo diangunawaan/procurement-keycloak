@@ -1,0 +1,1 @@
+2021-10-11 09:53:55,017 WARN  [org.keycloak.events] (default task-1167) type=LOGIN_ERROR, realmId=Procurite, clientId=, userId=null, ipAddress=127.0.0.1, error=invalid_client_credentials, grant_type=password

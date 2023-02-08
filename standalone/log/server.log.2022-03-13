@@ -1,0 +1,2 @@
+2022-03-13 11:33:24,974 WARN  [org.keycloak.protocol.oidc.utils.OAuth2CodeParser] (default task-1782) Code 'd1f19d22-274a-478d-bb41-378bdd1a18af' already used for userSession '86922304-51c5-41b4-9197-2fa6ac3417a8' and client '1e20b4c0-d944-4d69-88a9-caf0a8ff190b'.
+2022-03-13 11:33:24,988 WARN  [org.keycloak.events] (default task-1782) type=CODE_TO_TOKEN_ERROR, realmId=Procurite, clientId=procurite-web, userId=null, ipAddress=127.0.0.1, error=invalid_code, grant_type=authorization_code, code_id=86922304-51c5-41b4-9197-2fa6ac3417a8, client_auth_method=client-secret

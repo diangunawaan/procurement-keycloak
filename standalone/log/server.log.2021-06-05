@@ -1,0 +1,1 @@
+2021-06-05 22:34:49,240 WARN  [org.keycloak.events] (default task-784) type=IDENTITY_PROVIDER_LOGIN_ERROR, realmId=Procurite, clientId=null, userId=null, ipAddress=10.10.10.1, error=invalid_code, identity_provider=google

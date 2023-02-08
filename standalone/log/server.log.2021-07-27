@@ -1,0 +1,1 @@
+2021-07-27 03:17:36,182 WARN  [org.keycloak.events] (default task-391) type=LOGIN_ERROR, realmId=Procurite, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true, authSessionParentId=2f4de694-2ada-4740-b2d3-f62378569278, authSessionTabId=c4pMv3OsR9g
